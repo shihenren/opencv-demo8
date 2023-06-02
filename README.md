@@ -11,4 +11,5 @@
 
 ![image](https://github.com/shihenren/opencv-demo8/assets/103240081/5d0eb46a-e36f-40da-8fff-39b815d7f332)
 
-
+highpass为高通滤波器代码复现
+lowpass为低通滤波器代码复现
